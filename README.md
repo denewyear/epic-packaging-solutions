@@ -17,7 +17,7 @@ Epic Packaging Solutions is a professional single-page website built for a local
 - **Service Showcase** - Clear presentation of packaging solutions offered
 - **Smooth Navigation** - Single-page application with seamless user flow
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React.js, TypeScript
 - **Styling:** Tailwind CSS
@@ -25,7 +25,7 @@ Epic Packaging Solutions is a professional single-page website built for a local
 - **Deployment:** Netlify
 - **Version Control:** Git/GitHub
 
-## 📦 Installation & Setup
+## Installation & Setup
 ```bash
 # Clone the repository
 git clone https://github.com/denewyear/epic-packaging-solutions.git
