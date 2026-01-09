@@ -2,13 +2,13 @@
 
 A modern, responsive business website for a local packaging company showcasing their services and products.
 
-🔗 **[Live Demo](epickpacksolutions.com)**
+🔗 **[Live Site](https://epicpacksolutions.com/)**
 
-## 📋 Overview
+## Overview
 
 Epic Packaging Solutions is a professional single-page website built for a local packaging company. The site provides an engaging user experience with smooth navigation, company information, service offerings, and contact details.
 
-## ✨ Features
+## Features
 
 - **Responsive Design** - Fully optimized for desktop, tablet, and mobile devices
 - **Modern UI/UX** - Clean, professional interface with Tailwind CSS
@@ -45,7 +45,7 @@ npm run build
 
 The app will run on `http://localhost:3000` (or your configured port)
 
-## 🌐 Deployment
+## Deployment
 
 This project is deployed on Netlify with continuous deployment from the main branch.
 ```bash
@@ -56,27 +56,27 @@ npm run build
 build/
 ```
 
-## 🎯 Key Learnings
+## Key Learnings
 
 - Implemented responsive design using Tailwind CSS utility classes
 - Built reusable React components for maintainable code
 - Optimized for production deployment on Netlify
 - Worked with client requirements to deliver a professional business website
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - [ ] Add contact form with backend integration
 - [ ] Implement analytics to track visitor engagement
 - [ ] Add customer testimonials section
 - [ ] Include image gallery for packaging examples
 
-## 👤 Author
+## Author
 
 **Daniel**
 - LinkedIn: [work-with-daniel](https://www.linkedin.com/in/work-with-daniel)
 - GitHub: [@denewyear](https://github.com/denewyear)
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
