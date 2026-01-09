@@ -1,36 +1,85 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Epic Packaging Solutions
 
-## Getting Started
+A modern, responsive business website for a local packaging company showcasing their services and products.
 
-First, run the development server:
+🔗 **[Live Demo](epickpacksolutions.com)**
 
+## 📋 Overview
+
+Epic Packaging Solutions is a professional single-page website built for a local packaging company. The site provides an engaging user experience with smooth navigation, company information, service offerings, and contact details.
+
+## ✨ Features
+
+- **Responsive Design** - Fully optimized for desktop, tablet, and mobile devices
+- **Modern UI/UX** - Clean, professional interface with Tailwind CSS
+- **Fast Performance** - Optimized loading times with React best practices
+- **Contact Integration** - Easy-to-use contact section for customer inquiries
+- **Service Showcase** - Clear presentation of packaging solutions offered
+- **Smooth Navigation** - Single-page application with seamless user flow
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, TypeScript
+- **Styling:** Tailwind CSS
+- **Runtime:** Node.js
+- **Deployment:** Netlify
+- **Version Control:** Git/GitHub
+
+## 📦 Installation & Setup
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Clone the repository
+git clone https://github.com/denewyear/epic-packaging-solutions.git
+
+# Navigate to project directory
+cd epic-packaging-solutions
+
+# Install dependencies
+npm install
+
+# Run development server
+npm start
+
+# Build for production
+npm run build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The app will run on `http://localhost:3000` (or your configured port)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌐 Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project is deployed on Netlify with continuous deployment from the main branch.
+```bash
+# Build command
+npm run build
 
-## Learn More
+# Publish directory
+build/
+```
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Key Learnings
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Implemented responsive design using Tailwind CSS utility classes
+- Built reusable React components for maintainable code
+- Optimized for production deployment on Netlify
+- Worked with client requirements to deliver a professional business website
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🚀 Future Enhancements
 
-## Deploy on Vercel
+- [ ] Add contact form with backend integration
+- [ ] Implement analytics to track visitor engagement
+- [ ] Add customer testimonials section
+- [ ] Include image gallery for packaging examples
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 👤 Author
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Daniel**
+- LinkedIn: [work-with-daniel](https://www.linkedin.com/in/work-with-daniel)
+- GitHub: [@denewyear](https://github.com/denewyear)
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Note:** This is a real client project built for a local packaging business.
